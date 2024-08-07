@@ -31,10 +31,13 @@
     <h2>Project Structure</h2>
     <pre><code>
     news-article-summarizer/
-    ├── app.py
+    ├── app
+        |──src
+            |──article_retriever
+            |──summarizer
+        |──app.py
     ├── requirements.txt
     ├── README.md
-    └── other_project_files/
     </code></pre>
     <h2>Usage</h2>
     <p>1. Enter the article URL in the main input field.</p>
