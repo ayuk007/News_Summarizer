@@ -1,0 +1,7 @@
+groq
+langchain
+langchain_core
+langchain_groq
+newspaper3k
+streamlit
+lxml[html_clean]
