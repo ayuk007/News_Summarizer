@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Article Summarizer App README</title>
 </head>
 <body>
     <h1>News Article Summarizer App</h1>
@@ -21,7 +20,7 @@
     <pre><code>git clone &lt;repository-url&gt;</code></pre>
     <p>Replace <code>&lt;repository-url&gt;</code> with the actual URL of the repository.</p>
     <p>2. Navigate to the project directory:</p>
-    <pre><code>cd news-article-summarizer</code></pre>
+    <pre><code>cd News_Summarizer</code></pre>
     <p>3. Install the required packages using the provided requirements file:</p>
     <pre><code>pip install -r requirements.txt</code></pre>
     <h3>Running the App</h3>
